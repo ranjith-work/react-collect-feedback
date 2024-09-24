@@ -101,3 +101,5 @@ If you want to contribute to this project, feel free to submit pull requests or 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
