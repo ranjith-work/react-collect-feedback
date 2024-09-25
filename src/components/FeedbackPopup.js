@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import UserInfoSection from "./components/UserInfoSection";
-import FeedbackOptionsSection from "./components/FeedbackOptionsSection";
-import usePositionStyles from "./utils/usePositionStyles";
-import ButtonGroup from "./components/ButtonGroup";
+import UserInfoSection from "./UserInfoSection";
+import FeedbackOptionsSection from "./FeedbackOptionsSection";
+import usePositionStyles from "./usePositionStyles";
+import ButtonGroup from "./ButtonGroup";
 
 const FeedbackPopup = (props) => {
 	const popupStyles = usePositionStyles(props.position);
