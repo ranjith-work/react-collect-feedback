@@ -1,6 +1,6 @@
 {
 	"name": "react-collect-feedback",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A react plugin to collect feedback easily from webpages. react-collect-feedback plugin has props through which the feedback collection can be customized to any extent.",
 	"main": "dist/index.js",
 	"scripts": {
@@ -15,7 +15,7 @@
 		"feedback"
 	],
 	"author": "Ranjith Kumar Kakkarayil",
-	"license": "ISC",
+	"license": "MIT",
 	"peerDependencies": {
 		"react": ">=16.8.0",
 		"react-dom": ">=16.8.0"
