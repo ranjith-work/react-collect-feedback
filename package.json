@@ -1,7 +1,7 @@
 {
 	"name": "react-collect-feedback",
-	"version": "1.0.2",
-	"description": "A react plugin to collect feedback easily from webpages. react-collect-feedback plugin has props through which the feedback collection can be customized to any extent.",
+	"version": "1.0.3",
+	"description": "A React plugin to collect feedback easily from webpages. The react-collect-feedback plugin has props through which feedback collection can be customized extensively.",
 	"main": "dist/index.js",
 	"scripts": {
 		"build": "webpack --mode production",
@@ -9,13 +9,20 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "react-collect-feedback"
+		"url": "https://github.com/ranjith-work/react-collect-feedback.git"
 	},
 	"keywords": [
-		"feedback"
+		"feedback",
+		"react",
+		"plugin",
+		"feedback collection"
 	],
 	"author": "Ranjith Kumar Kakkarayil",
 	"license": "MIT",
+	"homepage": "https://ranjith-work.github.io/plugin-demo/#/react-collect-feedback-demo",
+	"bugs": {
+		"url": "https://github.com/ranjith-work/react-collect-feedback/issues"
+	},
 	"peerDependencies": {
 		"react": ">=16.8.0",
 		"react-dom": ">=16.8.0"
