@@ -1,6 +1,6 @@
 {
 	"name": "react-collect-feedback",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A React plugin to collect feedback easily from webpages. The react-collect-feedback plugin has props through which feedback collection can be customized extensively.",
 	"main": "dist/index.js",
 	"scripts": {
