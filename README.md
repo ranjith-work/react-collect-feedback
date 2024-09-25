@@ -81,21 +81,6 @@ export default App;
 - ```captureUserInfo```: Boolean values for capturing user information (name, email, contact).
 - ```ratings```: Array of objects for rating different aspects (value, mandatory status). Example:
 
-```
-[
-  { "value": "Speed of website", "mandatory": true },
-  { "value": "Content quality", "mandatory": true }
-]
-score: Array of objects for collecting score-based feedback. Example:
-
-json
-Copy code
-[
-  { "title": "How satisfied are you?", "number": 5 },
-  { "title": "How likely are you to recommend us?", "number": 10 }
-]
-```
-
 ## Contributing
 If you want to contribute to this project, feel free to submit pull requests or open issues for suggestions and bug reports.
 
